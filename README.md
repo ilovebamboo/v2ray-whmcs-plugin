@@ -1,4 +1,4 @@
-based legendsocks support v2ray.  
+ 
 
 ![](https://github.com/ilovebamboo/WHMCS-Legendsocks-plugin/blob/Legendsocks/QQ20180702-174013.png)
 
